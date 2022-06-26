@@ -3,6 +3,8 @@
 This repository contains a selection of tests organised into sub-folders by language.
 For your submission, demonstrate your ability to learn by choosing a language you haven't worked with before.
 
+> I've chosen Python since the only languages I've learned so far are Javascript and C. Had a fun morning learning! - Phil
+
 ## Clone this repository
 
 Use `git clone` to clone the repository locally, then change the remote, please do not fork this repository. To change the remote, use
