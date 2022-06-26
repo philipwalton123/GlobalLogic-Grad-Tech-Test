@@ -48,5 +48,3 @@ def test_function():
         "Belarus": 1,
     }
     assert medalTable == expectedTable
-
-print(test_function())
